@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/dVbSP2w4)
 # Exploratory Data Analysis - Lab
 
 ## Introduction
@@ -19,6 +20,35 @@ This assignment does not assume any particular setup. To install the dependencie
 - If you're using `pipenv`, run `pipenv install`
 - if you're using `pip`, run `pip install -r requirements.txt`
 
----
+## 💭 Reflection and Self Assessment
+
+**I learned:** (repeat as needed)
+- How to use different statistical methods and plot different charts
+
+**I struggled with:** (repeat as needed)
+- Recognizing and using syntax for newly learned concepts
+
+**I need the instructor to help me with:** (repeat as needed)
+- n/a
+
+**How long did it take you to complete this assignment? and reflect on that**
+- 2 hours.
+
+**How often did you have to check the solution to the problem? How do you feel about that?**
+- 80% of the time. 
+
+**If I were to do this assignment again, I would:** (repeat as needed)
+- n/a
+
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
+
+--------------------
+## 📚 References and Citations
+**I used the following links, books, and other resources in my work:** (repeat as needed)
+- https://www.kaggle.com/discussions/general/341193
+  
+**I received help from the following people:** (repeat as needed)
+- n/a 
+
 ## Copyrights and License
 IT4063C Data Technologies Analytics by [Yahya Gilany](https://yahyagilany.io). is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
